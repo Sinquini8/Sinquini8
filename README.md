@@ -27,7 +27,7 @@ Atualmente, aprofundo conhecimentos para atuar com **diferentes tipos de dados e
 
 ## 📊 Projetos
 
-### 📡 Análise de Falhas e Chamados na Rede
+### 📡 Análise de Falhas e Chamados na Rede - SQL
 Projeto focado em identificar padrões operacionais, regiões com maior volume de chamados e eficiência das equipes.  
 🔗 [Acessar projeto](https://github.com/Sinquini8/analise-chamados-sql/tree/main)
 
