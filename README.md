@@ -29,7 +29,7 @@ Atualmente, aprofundo conhecimentos para atuar com **diferentes tipos de dados e
 
 ### 📡 Análise de Falhas e Chamados na Rede
 Projeto focado em identificar padrões operacionais, regiões com maior volume de chamados e eficiência das equipes.  
-🔗 [Acessar projeto](#)
+🔗 [Acessar projeto](https://github.com/Sinquini8/analise-chamados-sql/tree/main)
 
 ---
 
@@ -39,14 +39,9 @@ Descrição breve do objetivo do projeto e quais ferramentas foram utilizadas.
 
 ---
 
-### 📉 (Nome do próximo projeto)
-Descrição breve do projeto e principais insights.  
-🔗 [Acessar projeto](#)
-
----
 
 ## 🔗 Contato
-- LinkedIn: (coloque aqui seu link)
-- GitHub: (seu perfil)
+- LinkedIn: ([coloque aqui seu link](https://www.linkedin.com/in/vict%C3%B3riasinquini/))
+- GitHub: ([seu perfil](https://github.com/Sinquini8))
 
 ---
