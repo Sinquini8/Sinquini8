@@ -1,16 +1,52 @@
-## Hi there 👋
+# 📊 Victoria Sinquini | Analista de Dados em Formação
 
-<!--
-**Sinquini8/Sinquini8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Rio de Janeiro - RJ  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Sobre mim
+Analista de Dados em formação (3º período em Ciência de Dados), com foco em **transformar dados em insights estratégicos** para apoio à tomada de decisão.  
+
+Minha paixão por análise surgiu a partir da experiência profissional, desenvolvendo habilidades em **resolução de problemas, identificação de padrões e melhoria de processos**.  
+
+Atualmente, aprofundo conhecimentos para atuar com **diferentes tipos de dados e contextos de negócio**, utilizando técnicas de **SQL, estatística e visualização de dados**.
+
+---
+
+## 🛠️ Habilidades
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Power Query" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 Projetos
+
+### 📡 Análise de Falhas e Chamados na Rede
+Projeto focado em identificar padrões operacionais, regiões com maior volume de chamados e eficiência das equipes.  
+🔗 [Acessar projeto](#)
+
+---
+
+### 📈 (Nome do próximo projeto)
+Descrição breve do objetivo do projeto e quais ferramentas foram utilizadas.  
+🔗 [Acessar projeto](#)
+
+---
+
+### 📉 (Nome do próximo projeto)
+Descrição breve do projeto e principais insights.  
+🔗 [Acessar projeto](#)
+
+---
+
+## 🔗 Contato
+- LinkedIn: (coloque aqui seu link)
+- GitHub: (seu perfil)
+
+---
