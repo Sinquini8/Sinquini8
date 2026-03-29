@@ -33,9 +33,9 @@ Projeto focado em identificar padrões operacionais, regiões com maior volume d
 
 ---
 
-### 📈 (Nome do próximo projeto)
-Descrição breve do objetivo do projeto e quais ferramentas foram utilizadas.  
-🔗 [Acessar projeto](#)
+### 📈 Análise de Acidentes de Trânsito no Brasil - Linguagem R 
+Análise estatística de acidentes de trânsito no Brasil (DATATRAN 2024), feita em R no Google Colab, para identificar padrões por estado, clima, período do dia e principais causas..  
+🔗 [Acessar projeto]([#](https://github.com/Sinquini8/Acidente-Transito-Brasil_Probabilidade-R))
 
 ---
 
